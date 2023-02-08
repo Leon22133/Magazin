@@ -1,0 +1,15 @@
+D:\ConsoleApp36\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.exe
+D:\ConsoleApp36\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.deps.json
+D:\ConsoleApp36\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.runtimeconfig.json
+D:\ConsoleApp36\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.dll
+D:\ConsoleApp36\ConsoleApp36\bin\Debug\net6.0\ConsoleApp36.pdb
+D:\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.csproj.AssemblyReference.cache
+D:\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.AssemblyInfoInputs.cache
+D:\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.AssemblyInfo.cs
+D:\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.csproj.CoreCompileInputs.cache
+D:\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.dll
+D:\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\refint\ConsoleApp36.dll
+D:\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.pdb
+D:\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ConsoleApp36.genruntimeconfig.cache
+D:\ConsoleApp36\ConsoleApp36\obj\Debug\net6.0\ref\ConsoleApp36.dll
